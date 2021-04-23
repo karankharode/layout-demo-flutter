@@ -1,12 +1,8 @@
+## Layout Basics Example App - Karan Kharode
+### Show some :heart: and star the repo to support the project
 ## Super Useful Flutter Layouts - Right in Your Pocket. 😉
-
+Forked From Code with Andrea's Github Repository
 **Update**: Flutter web app preview here: [https://flutter-layouts-demo.web.app/](https://flutter-layouts-demo.web.app/)
-
-YouTube video walkthroughs with explanations here: 
-
-[![Flutter Layouts: Row, Column, Stack, Expanded, Padding](screenshots/video-poster.png)](https://www.youtube.com/watch?v=RJEnTRBxaSg)
-
-[![Flutter Layouts: PageView, ListView, GridView, Slivers, Hero Imaegs](screenshots/video-poster2.jpg)](https://www.youtube.com/watch?v=-zJ6CnOVndE)
 
 This app shows you how to use the most common layouts in Flutter.
 
@@ -14,7 +10,6 @@ You can run this project on your simulator or device.
 
 Oh, and the app itself is built with - guess what - a combination of Flutter layouts. So Meta! 😎
 
-### For more articles and video tutorials, check out [Coding With Flutter](https://codingwithflutter.com/).
 
 # Table of Contents
 
@@ -111,11 +106,6 @@ Wikipedia: [Golden Spiral](https://en.wikipedia.org/wiki/Golden_spiral) (also: F
 - [ListView](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 
 <img src="https://github.com/bizz84/layout-demo-flutter/raw/master/screenshots/nested.png" width="320">
-
-
-### For more articles and video tutorials, check out [Code With Andrea](https://codewithandrea.com/).
-
-### [License: MIT](LICENSE.md)
 
 ### Attribution
 
